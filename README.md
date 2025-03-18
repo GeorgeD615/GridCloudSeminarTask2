@@ -10,9 +10,9 @@
     </ul>
     <h2>Setup and Deployment</h2>
     <h3>1. Clone the repository</h3>
-    <pre><code>git clone https://github.com/YourUsername/YourRepo.git</code></pre>
+    <pre><code>git clone https://github.com/GeorgeD615/GridCloudSeminarTask2.git</code></pre>
     <h3>2. Navigate to the project folder</h3>
-    <pre><code>cd YourRepo</code></pre>
+    <pre><code>cd ../GridCloudSeminarTask2</code></pre>
     <h3>3. Start Minikube</h3>
     <pre><code>minikube start --driver=docker</code></pre>
     <h3>4. Build and load Docker images into Minikube</h3>
@@ -49,15 +49,5 @@ kubectl delete -f k8s/nginx.yaml
 minikube stop
 minikube delete
     </code></pre>
-    <h2>Project Structure</h2>
-    <pre>
-📂 YourRepo
- ├── 📂 API (Backend .NET application)
- ├── 📂 k8s (Kubernetes YAML files)
- ├── 📂 k8s/nginx (NGINX config)
- ├── 📜 backend-deployment.yaml
- ├── 📜 backend-service.yaml
- ├── 📜 nginx.yaml
-    </pre>
     <p>Now your backend and frontend are running in Kubernetes, accessible through NGINX.</p>
 </body>
