@@ -1,0 +1,7 @@
+C:\Users\OMEN\source\repos\API\API\out\API.exe
+C:\Users\OMEN\source\repos\API\API\out\appsettings.Development.json
+C:\Users\OMEN\source\repos\API\API\out\appsettings.json
+C:\Users\OMEN\source\repos\API\API\out\API.dll
+C:\Users\OMEN\source\repos\API\API\out\API.deps.json
+C:\Users\OMEN\source\repos\API\API\out\API.runtimeconfig.json
+C:\Users\OMEN\source\repos\API\API\out\API.pdb

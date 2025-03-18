@@ -1,0 +1,12 @@
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\API.exe
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\out\web.config
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\appsettings.json
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\out\API.deps.json
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\out\API.runtimeconfig.json
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\out\appsettings.Development.json
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\out\appsettings.json
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\API.dll
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\API.deps.json
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\API.runtimeconfig.json
+C:\Users\OMEN\source\repos\API\API\bin\Release\net8.0\publish\API.pdb
